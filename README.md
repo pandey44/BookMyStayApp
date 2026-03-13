@@ -1,5 +1,5 @@
-# BookMyStayApp
-Hotel Booking Management System
+## BookMyStayApp
+#Hotel Booking Management System
 Objective
 
 The goal of this project is to build a Hotel Booking Management System using Core Java and Data Structures.
