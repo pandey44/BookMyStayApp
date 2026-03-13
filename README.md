@@ -1,11 +1,11 @@
-## BookMyStayApp
-#Hotel Booking Management System
+# BookMyStayApp
+##Hotel Booking Management System
 Objective
 
 The goal of this project is to build a Hotel Booking Management System using Core Java and Data Structures.
 It demonstrates how data structures help manage room availability, booking requests, and prevent double booking in a real-world system.
 
-Project Procedure
+##Project Procedure
 
 The system was developed step by step:
 
@@ -19,7 +19,7 @@ Double Booking Prevention – The system checks room availability before confirm
 
 Request Handling – A Queue (FIFO) is used to process booking requests fairly.
 
-Project Flow
+##Project Flow
 
 Initialize rooms
 
@@ -33,7 +33,7 @@ Booking confirmed or rejected
 
 Booking details stored
 
-Use Cases
+##Use Cases
 
 Add rooms
 
@@ -45,7 +45,7 @@ Cancel a booking
 
 View booking details
 
-Technologies Used
+##Technologies Used
 
 Core Java
 
